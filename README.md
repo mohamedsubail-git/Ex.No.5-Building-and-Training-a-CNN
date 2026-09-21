@@ -126,6 +126,9 @@ for i in range(5):
 Thus successfully implemented and trained a CNN to recognize objects across ten distinct categories using the CIFAR 10 dataset.
 
 
+colab link: https://colab.research.google.com/drive/1JNA9W-mj2gmnoYgZ_l8YQ4uQjgBfDJ2B#scrollTo=N1EqgfinmsD1
+
+
 
 
 
